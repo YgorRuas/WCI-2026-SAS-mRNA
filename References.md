@@ -20,7 +20,7 @@ Below is the list of the main computational tools, predictive platforms, and aca
 
 ## Additional Literature
 
-* **Cunha, A. F., Andrade, H. M., Souza, F. N., et al. (2020).** Comparison of antibody repertories against Staphylococcus aureus in healthy and infected dairy cows with a distinct mastitis history and vaccinated with a polyvalent mastitis vaccine[cite: 4]. *Journal of Dairy Science*, 103(5), 4588-4605[cite: 4]. https://doi.org/10.3168/jds.2019-17084[cite: 4]
+* **Cunha, A. F., Andrade, H. M., Souza, F. N., et al. (2020).** Comparison of antibody repertories against Staphylococcus aureus in healthy and infected dairy cows with a distinct mastitis history and vaccinated with a polyvalent mastitis vaccine[cite: 4]. *Journal of Dairy Science*, 103(5), 4588-4605[cite: 4]. https://doi.org/10.3168/jds.2019-17084 [cite: 4]
   * [📄 Download PDF](assets/Artigo_de_imunoseruproteomica.pdf)
 
 ---
