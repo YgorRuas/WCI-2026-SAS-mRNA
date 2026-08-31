@@ -19,11 +19,11 @@ Use the links below to explore the sections of this project:
   * Structural models and visual renderings (3 images) of the native and mutated SAS protein.
 * **[💻 Software Data](assets/software_data/)** 
   * Pipeline outputs, PDF reports, and direct links to the bioinformatics platforms utilized.
-* **[📖 Learn More](saiba-mais.md)** 
+* **[📖 Learn More](Learn-More.md)** 
   * Extended rationale and supplementary folders detailing the research steps.
-* **[📚 References](referencias.md)** 
+* **[📚 References](References.md)** 
   * Complete list of academic literature, applied articles (with PDFs when available), and software citations.
-* **[🤝 Acknowledgments](agradecimentos.md)** 
+* **[🤝 Acknowledgments](Acknowledgments.md)** 
   * Institutional support and FAPESP funding details.
 
 ## 👤 Contact
